@@ -6,8 +6,6 @@ import {Card, CardActionArea, CardContent, CardMedia, Typography, Grid} from '@m
 import {withStyles} from '@material-ui/core/styles'
 const myFirstElement = <div><h1>Hello React!2</h1><br></br>
 
-<h2>dd</h2>
-<h1>22</h1></div>
 
 const styles = theme => ({
   root: {
